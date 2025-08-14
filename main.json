@@ -1,7 +1,7 @@
 {
   "numtabs": 1,
-  "numpostauto": [2,4],
-  "mousescroll": [10,15],
+  "numpostauto": [4,5],
+  "mousescroll": [2,4],
   "timeinads": [150,200],
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/runauto/refs/heads/main/ip",
   "webs":"https://raw.githubusercontent.com/chaudaiduong1992/runauto/refs/heads/main/wb"
